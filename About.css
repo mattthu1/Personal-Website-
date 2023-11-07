@@ -1,0 +1,447 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&display=swap');
+
+.desktop2 {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop2 .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1518px;
+  height: 4136px;
+  position: relative;
+}
+
+.desktop2 .overlap {
+  position: absolute;
+  width: 1654px;
+  height: 1317px;
+  top: 1472px;
+  left: 0;
+}
+
+.desktop2 .middle {
+  position: absolute;
+  width: 1518px;
+  height: 1227px;
+  top: 0;
+  left: 0;
+  background-color: #f4f1e9;
+}
+
+.desktop2 .ewaste {
+  position: absolute;
+  width: 890px;
+  height: 406px;
+  top: 911px;
+  left: 764px;
+}
+
+.desktop2 .overlap-group {
+  position: relative;
+  width: 882px;
+  height: 406px;
+}
+
+.desktop2 .text-wrapper {
+  position: absolute;
+  width: 882px;
+  top: 0;
+  left: 0;
+  font-family: "Cormorant Garamond-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop2 .p {
+  position: absolute;
+  width: 729px;
+  top: 176px;
+  left: 5px;
+  font-family: "Gothic A1-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop2 .text-wrapper-2 {
+  position: absolute;
+  width: 877px;
+  top: 74px;
+  left: 5px;
+  font-family: "Cormorant Garamond-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop2 .text-wrapper-3 {
+  position: absolute;
+  width: 831px;
+  top: 118px;
+  left: 5px;
+  font-family: "Cormorant Garamond-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop2 .STEPS-THERAPY {
+  position: absolute;
+  width: 890px;
+  height: 406px;
+  top: 113px;
+  left: 755px;
+}
+
+.desktop2 .golf {
+  position: absolute;
+  width: 890px;
+  height: 406px;
+  top: 540px;
+  left: 764px;
+}
+
+.desktop2 .text-wrapper-4 {
+  position: absolute;
+  width: 531px;
+  top: 43px;
+  left: 75px;
+  font-family: "Cormorant Garamond-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 70px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop2 .NYU {
+  position: absolute;
+  width: 888px;
+  height: 181px;
+  top: 2872px;
+  left: 769px;
+}
+
+.desktop2 .text-wrapper-5 {
+  position: absolute;
+  width: 729px;
+  top: 133px;
+  left: 3px;
+  font-family: "Gothic A1-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop2 .text-wrapper-6 {
+  position: absolute;
+  width: 877px;
+  top: 81px;
+  left: 0;
+  font-family: "Cormorant Garamond-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop2 .NYU-2 {
+  top: 3331px;
+  left: 772px;
+  position: absolute;
+  width: 888px;
+  height: 168px;
+}
+
+.desktop2 .NYU-3 {
+  top: 3773px;
+  left: 759px;
+  position: absolute;
+  width: 888px;
+  height: 168px;
+}
+
+.desktop2 .NYU-4 {
+  top: 3552px;
+  left: 772px;
+  position: absolute;
+  width: 888px;
+  height: 168px;
+}
+
+.desktop2 .frame {
+  display: flex;
+  flex-direction: column;
+  width: 136px;
+  height: 85px;
+  align-items: flex-start;
+  gap: 10px;
+  position: absolute;
+  top: 792px;
+  left: 735px;
+}
+
+.desktop2 .day-to-day {
+  position: relative;
+  width: 354px;
+  height: 562px;
+  margin-bottom: -477px;
+  margin-right: -218px;
+}
+
+.desktop2 .applied-behavior {
+  position: absolute;
+  width: 305px;
+  top: 141px;
+  left: 28px;
+  font-family: "Gothic A1-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.desktop2 .text-wrapper-7 {
+  position: absolute;
+  width: 350px;
+  top: 0;
+  left: 0;
+  font-family: "Cormorant Garamond-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 90px;
+  white-space: nowrap;
+}
+
+.desktop2 .linked-in-wrapper {
+  position: absolute;
+  width: 1542px;
+  height: 76px;
+  top: 4060px;
+  left: -2px;
+  background-color: #5a6057;
+}
+
+.desktop2 .linked-in {
+  position: relative;
+  width: 188px;
+  height: 35px;
+  top: 3px;
+  left: 26px;
+}
+
+.desktop2 .text-wrapper-8 {
+  position: absolute;
+  width: 188px;
+  top: -1px;
+  left: 0;
+  font-family: "Cormorant Garamond-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop2 .overlap-2 {
+  position: absolute;
+  width: 1518px;
+  height: 636px;
+  top: 0;
+  left: 0;
+  background-image: url(Photoclass/HuM_SpringFinal3.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop2 .text-wrapper-9 {
+  position: absolute;
+  width: 267px;
+  top: 248px;
+  left: 625px;
+  font-family: "Cormorant Garamond-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 100px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop2 .matthew-hu {
+  position: absolute;
+  width: 343px;
+  height: 67px;
+  top: 46px;
+  left: 56px;
+}
+
+.desktop2 .text-wrapper-10 {
+  position: absolute;
+  width: 343px;
+  top: -1px;
+  left: 0;
+  font-family: "Cormorant Garamond-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop2 .about {
+  height: 55px;
+  top: 58px;
+  left: 1331px;
+  position: absolute;
+  width: 101px;
+}
+
+.desktop2 .text-wrapper-11 {
+  top: -1px;
+  left: 0;
+  font-family: "Cormorant Garamond-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  width: 101px;
+}
+
+.desktop2 .creative {
+  position: absolute;
+  width: 109px;
+  height: 66px;
+  top: 58px;
+  left: 1191px;
+}
+
+.desktop2 .text-wrapper-12 {
+  position: absolute;
+  width: 109px;
+  top: -1px;
+  left: 0;
+  font-family: "Cormorant Garamond-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop2 .home-hover {
+  position: absolute;
+  width: 92px;
+  height: 77px;
+  top: 58px;
+  left: 1068px;
+}
+
+.desktop2 .text-wrapper-13 {
+  position: absolute;
+  width: 92px;
+  top: -1px;
+  left: 0;
+  font-family: "Cormorant Garamond-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop2 .text-wrapper-14 {
+  position: absolute;
+  width: 381px;
+  top: 727px;
+  left: 150px;
+  font-family: "Cormorant Garamond-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 70px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop2 .text-wrapper-15 {
+  position: absolute;
+  width: 315px;
+  top: 2759px;
+  left: 183px;
+  font-family: "Cormorant Garamond-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 70px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop2 .lang {
+  position: absolute;
+  width: 276px;
+  height: 370px;
+  top: 793px;
+  left: 1112px;
+}
+
+.desktop2 .english-chinese {
+  position: absolute;
+  width: 231px;
+  top: 129px;
+  left: 41px;
+  font-family: "Gothic A1-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.desktop2 .text-wrapper-16 {
+  position: absolute;
+  width: 136px;
+  top: 0;
+  left: 0;
+  font-family: "Cormorant Garamond-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 90px;
+  white-space: nowrap;
+}
+
+.desktop2 .text-wrapper-17 {
+  position: absolute;
+  width: 390px;
+  top: 3234px;
+  left: 174px;
+  font-family: "Cormorant Garamond-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 70px;
+  letter-spacing: 0;
+  line-height: normal;
+}

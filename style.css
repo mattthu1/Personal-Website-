@@ -1,0 +1,1105 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&display=swap');
+
+
+.desktop {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 100%;
+  height: 2327px;
+  position: relative;
+}
+
+.desktop .overlap-group {
+  position: absolute;
+  width: 100%;
+  height: 1618px;
+  top: 633px;
+  left: -4px;
+}
+
+.desktop .footer {
+  position: absolute;
+  width: 100%;
+  height: 826px;
+  top: 792px;
+  left: 0;
+  background-color: #f4f1e9;
+}
+
+.desktop .image {
+  width: 100%;
+  height: 816px;
+  top: 802px;
+  left: 4px;
+  mix-blend-mode: screen;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .frame {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 802px;
+  align-items: flex-start;
+  top: 0;
+  left: 4px;
+  gap: 10px;
+  position: absolute;
+}
+
+.desktop .footer-2 {
+  position: relative;
+  width: 100%;
+  height: 802px;
+  background-color: #ffffff;
+}
+
+.desktop .div-wrapper {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  top: 187px;
+  left: 30%;
+  gap: 10px;
+  position: absolute;
+}
+
+.desktop .text-wrapper {
+  position: relative;
+  width: 40%;
+  margin-top: -20px;
+  right: 23%;
+
+  font-family: 'Cormorant Garamond', serif;  font-weight: 500;
+  color: #1e1e1e;
+  font-size: 250%;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+
+
+
+}
+
+.desktop .img {
+  width: 20%;
+  height: auto;
+  top: 197px;
+  right: 10%;
+  position: absolute;
+  object-fit: cover;
+  
+}
+
+.desktop .image-2 {
+  width: 20%;
+  height: auto;
+  top: 95px;
+  left: 10%;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .overlap {
+  position: absolute;
+  width: 110%;
+  height: 76px;
+  top: 2251px;
+  left: -43px;
+  background-color: #5a6057;
+}
+
+.desktop .linked-in {
+  position: relative;
+  width: 10%;
+  height: 35px;
+  top: 3px;
+  left: 65px;
+}
+
+.desktop .text-wrapper-2 {
+  position: absolute;
+  width: 20%;
+  top: 20px;
+  left: 0;
+  font-family: 'Cormorant Garamond', serif;  font-weight: 300;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .overlap-2 {
+  position: absolute;
+  width: 100%;
+  height: 633px;
+  top: 0;
+  left: 0;
+  background-image: url(Photos/Vsco/HuM_SpringFinal4.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop .matthew-hu {
+  position: absolute;
+  width: 343px;
+  height: 67px;
+  top: 46px;
+  left: 5%;
+}
+
+.desktop .text-wrapper-3 {
+  position: absolute;
+  width: 343px;
+  top: -1px;
+  left: 0;
+  font-family: 'Cormorant Garamond', serif;  font-weight: 700;
+  color: #ffffff;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+/*Home*/
+
+.desktop .home-hover {
+  position: absolute;
+  width: 80px;
+  height: 49px;
+  top: 58px;
+  right: 23%;
+
+}
+
+.desktop .text-wrapper-6 {
+  position: absolute;
+  width: 109px;
+  top: -1px;
+  left: 0;
+  font-family: 'Cormorant Garamond', serif;  font-weight: 700;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+/*Creative*/
+
+.desktop .creative {
+  position: absolute;
+  width: 109px;
+  height: 49px;
+  top: 58px;
+  right: 14%;
+
+}
+
+.desktop .text-wrapper-4 {
+  position: absolute;
+  width: 109px;
+  top: -1px;
+  left: 0;
+  font-family: 'Cormorant Garamond', serif;  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+/*About*/
+
+.desktop .about {
+  position: absolute;
+  width: 109px;
+  height: 49px;
+  top: 58px;
+  right: 5%;
+  
+
+}
+
+.desktop .text-wrapper-5 {
+  position: absolute;
+  width: 109px;
+  top: -1px;
+  left: 0;
+  font-family: 'Cormorant Garamond', serif;  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+
+
+
+/* ABOUT */
+
+
+.desktop2 .overlap {
+  position: absolute;
+  width:100%;
+  height: 1317px;
+  top: 1472px;
+  left: 0;
+}
+
+.desktop2 .middle {
+  position: absolute;
+  width: 100%;
+  height: 1227px;
+  top: 0;
+  left: 0;
+  background-color: #f4f1e9;
+}
+
+.desktop2 .ewaste {
+  position: absolute;
+  width: 890px;
+  height: 406px;
+  top: 911px;
+  left: 764px;
+}
+
+.desktop2 .overlap-group {
+  position: relative;
+  width: 882px;
+  height: 406px;
+}
+
+.desktop2 .text-wrapper {
+  position: absolute;
+  width: 882px;
+  top: 0;
+  left: 0;
+  font-family: 'Cormorant Garamond', serif;  font-weight: 500;
+  font-weight: 700;
+  color: #000000;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop2 .p {
+  position: absolute;
+  width: 729px;
+  top: 176px;
+  left: 5px;
+  font-family: 'Cormorant Garamond', serif;  font-weight: 500;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop2 .text-wrapper-2 {
+  position: absolute;
+  width: 877px;
+  top: 74px;
+  left: 5px;
+  font-family: 'Cormorant Garamond', serif;  font-weight: 500;
+  font-weight: 600;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop2 .text-wrapper-3 {
+  position: absolute;
+  width: 831px;
+  top: 118px;
+  left: 5px;
+  font-family: 'Cormorant Garamond', serif;  font-weight: 500;
+  font-weight: 600;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop2 .STEPS-THERAPY {
+  position: absolute;
+  width: 890px;
+  height: 406px;
+  top: 113px;
+  left: 755px;
+}
+
+.desktop2 .golf {
+  position: absolute;
+  width: 890px;
+  height: 406px;
+  top: 540px;
+  left: 764px;
+}
+
+.desktop2 .text-wrapper-4 {
+  position: absolute;
+  width: 531px;
+  top: 43px;
+  left: 75px;
+  font-family: 'Cormorant Garamond', serif;  font-weight: 500;
+  font-weight: 700;
+  color: #000000;
+  font-size: 70px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop2 .NYU {
+  position: absolute;
+  width: 888px;
+  height: 181px;
+  top: 2872px;
+  left: 769px;
+}
+
+.desktop2 .text-wrapper-5 {
+  position: absolute;
+  width: 729px;
+  top: 133px;
+  left: 3px;
+  font-family: 'Cormorant Garamond', serif;  font-weight: 500;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop2 .text-wrapper-6 {
+  position: absolute;
+  width: 877px;
+  top: 81px;
+  left: 0;
+  font-family: 'Cormorant Garamond', serif;  font-weight: 500;
+  font-weight: 600;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop2 .NYU-2 {
+  top: 3331px;
+  left: 772px;
+  position: absolute;
+  width: 888px;
+  height: 168px;
+}
+
+.desktop2 .NYU-3 {
+  top: 3773px;
+  left: 759px;
+  position: absolute;
+  width: 888px;
+  height: 168px;
+}
+
+.desktop2 .NYU-4 {
+  top: 3552px;
+  left: 772px;
+  position: absolute;
+  width: 888px;
+  height: 168px;
+}
+
+.desktop2 .frame {
+  display: flex;
+  flex-direction: column;
+  width: 136px;
+  height: 85px;
+  align-items: flex-start;
+  gap: 10px;
+  position: absolute;
+  top: 792px;
+  left: 735px;
+}
+
+.desktop2 .day-to-day {
+  position: relative;
+  width: 354px;
+  height: 562px;
+  margin-bottom: -477px;
+  margin-right: -218px;
+}
+
+.desktop2 .applied-behavior {
+  position: absolute;
+  width: 305px;
+  top: 141px;
+  left: 28px;
+  font-family: 'Cormorant Garamond', serif;  font-weight: 500;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.desktop2 .text-wrapper-7 {
+  position: absolute;
+  width: 350px;
+  top: 0;
+  left: 0;
+  font-family: 'Cormorant Garamond', serif;  font-weight: 500;
+  font-weight: 500;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 90px;
+  white-space: nowrap;
+}
+
+.desktop2 .linked-in-wrapper {
+  position: absolute;
+  width: 20%;
+  height: 76px;
+  top: 4060px;
+  left: -2px;
+  background-color: #5a6057;
+}
+
+.desktop2 .linked-in {
+  position: relative;
+  width: 90%;
+  height: 35px;
+  top: 3px;
+  left: 26px;
+}
+
+.desktop2 .text-wrapper-8 {
+  position: absolute;
+  width: 188px;
+  top: -1px;
+  left: 0;
+  font-family: 'Cormorant Garamond', serif;  font-weight: 500;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop2 .overlap-2 {
+  position: absolute;
+  width: 100%;
+  height: 636px;
+  top: 0;
+  left: 0;
+  background-image: url(Photos/Vsco/HuM_Final4.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop2 .text-wrapper-9 {
+  position: absolute;
+  width: 267px;
+  top: 248px;
+  left: 625px;
+  font-family: 'Cormorant Garamond', serif;  font-weight: 500;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 100px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop2 .matthew-hu {
+  position: absolute;
+  width: 343px;
+  height: 67px;
+  top: 46px;
+  left: 56px;
+}
+
+.desktop2 .text-wrapper-10 {
+  position: absolute;
+  width: 343px;
+  top: -1px;
+  left: 0;
+  font-family: 'Cormorant Garamond', serif;  font-weight: 500;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+/*Home*/
+
+.desktop2 .home-hover {
+  position: absolute;
+  width: 80px;
+  height: 49px;
+  top: 58px;
+  right: 23%;
+
+}
+
+.desktop2 .text-wrapper-13 {
+  position: absolute;
+  width: 109px;
+  top: -1px;
+  left: 0;
+  font-family: 'Cormorant Garamond', serif;  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+
+/*creative*/ 
+
+.desktop2 .creative {
+  position: absolute;
+  width: 109px;
+  height: 49px;
+  top: 58px;
+  right: 14%;
+}
+
+.desktop2 .text-wrapper-11 {
+    position: absolute;
+    width: 109px;
+    top: -1px;
+    left: 0;
+    font-family: 'Cormorant Garamond', serif;  font-weight: 400;
+    color: #ffffff;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+/*About*/ 
+
+.desktop2 .about {
+  position: absolute;
+  width: 109px;
+  height: 49px;
+  top: 58px;
+  right: 5%;
+
+}
+
+.desktop2 .text-wrapper-12 {
+  position: absolute;
+  width: 109px;
+  top: -1px;
+  left: 0;
+  font-family: 'Cormorant Garamond', serif;  font-weight: 700;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+
+
+
+/*text wrappers*/
+
+.desktop2 .text-wrapper-14 {
+  position: absolute;
+  width: 381px;
+  top: 727px;
+  left: 150px;
+  font-family: 'Cormorant Garamond', serif;  font-weight: 500;
+  font-weight: 700;
+  color: #000000;
+  font-size: 70px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop2 .text-wrapper-15 {
+  position: absolute;
+  width: 315px;
+  top: 2759px;
+  left: 183px;
+  font-family: 'Cormorant Garamond', serif;  font-weight: 500;
+  font-weight: 700;
+  color: #000000;
+  font-size: 70px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop2 .lang {
+  position: absolute;
+  width: 276px;
+  height: 370px;
+  top: 793px;
+  left: 1112px;
+}
+
+.desktop2 .english-chinese {
+  position: absolute;
+  width: 231px;
+  top: 129px;
+  left: 41px;
+  font-family: 'Cormorant Garamond', serif;  font-weight: 500;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.desktop2 .text-wrapper-16 {
+  position: absolute;
+  width: 136px;
+  top: 0;
+  left: 0;
+  font-family: 'Cormorant Garamond', serif;  font-weight: 500;
+  font-weight: 500;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 90px;
+  white-space: nowrap;
+}
+
+.desktop2 .text-wrapper-17 {
+  position: absolute;
+  width: 390px;
+  top: 3234px;
+  left: 174px;
+  font-family: 'Cormorant Garamond', serif;  font-weight: 500;
+  font-weight: 700;
+  color: #000000;
+  font-size: 70px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+
+
+
+
+/*Gallery*/
+
+img.test {
+  width: 90%;
+  height: auto;
+  margin: 5%;
+}
+.gallery {
+display: flex;
+padding: 0px;
+transition: .3s;
+  background-color:   white;
+ 
+&:hover &__image {
+  filter: grayscale(1);
+}
+
+&__column {
+  display: flex;
+  flex-direction: column;
+  width: 5%;
+}
+
+&__link {
+  margin: 0%;
+  overflow: hidden;
+  
+  &:hover {
+    .gallery__image {
+      filter: grayscale(0);
+    }
+    
+    .gallery__caption {
+      opacity: 1;
+    }
+  }
+}
+
+&__thumb {
+  position: relative;
+}
+
+&__image {
+  display: block;
+  width: 100%;
+  transition: .3s;
+  
+  &:hover {
+    transform: scale(1.1);
+  }
+}
+
+  
+
+}
+
+.desktop3 {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop3 .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 100%;
+  height: 650px;
+  position: relative;
+}
+
+.desktop3 .overlap-group {
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  top: 633px;
+  left: -4px;
+}
+
+.desktop3 .footer {
+  position: absolute;
+  width: 100%;
+  height: 826px;
+  top: 792px;
+  left: 0;
+  background-color: #f4f1e9;
+}
+
+.desktop3 .image {
+  width: 100%;
+  height: 816px;
+  top: 802px;
+  left: 4px;
+  mix-blend-mode: screen;
+  position: absolute;
+  object-fit: cover;
+}
+
+.deskto3 .frame {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 802px;
+  align-items: flex-start;
+  top: 0;
+  left: 4px;
+  gap: 10px;
+  position: absolute;
+}
+
+.desktop3 .footer-2 {
+  position: relative;
+  width: 100%;
+  height: 802px;
+  background-color: #ffffff;
+}
+
+.desktop3 .div-wrapper {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  top: 187px;
+  left: 30%;
+  gap: 10px;
+  position: absolute;
+}
+
+
+
+.desktop3 .overlap {
+  position: absolute;
+  width: 110%;
+  height: 76px;
+  top: 2251px;
+  left: -43px;
+  background-color: #5a6057;
+}
+
+.desktop .linked-in {
+  position: relative;
+  width: 10%;
+  height: 35px;
+  top: 3px;
+  left: 65px;
+}
+
+.desktop3 .text-wrapper-2 {
+  position: absolute;
+  width: 100px;
+  top: 20px;
+  left: 0;
+  font-family: 'Cormorant Garamond', serif;  font-weight: 300;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop3 .overlap-2 {
+  position: absolute;
+  width: 100%;
+  height: 633px;
+  top: 0;
+  left: 0;
+  background-image: url(Photos/Vsco/HuM_nature_upclose_1_Original.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop3 .matthew-hu {
+  position: absolute;
+  width: 343px;
+  height: 67px;
+  top: 46px;
+  left: 5%;
+}
+
+.desktop3 .text-wrapper-3 {
+  position: absolute;
+  width: 343px;
+  top: -1px;
+  left: 0;
+  font-family: 'Cormorant Garamond', serif;  font-weight: 700;
+  color: #ffffff;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+
+/*Home*/
+
+.desktop3 .home-hover {
+  position: absolute;
+  width: 80px;
+  height: 49px;
+  top: 58px;
+  right: 23%;
+
+}
+
+.desktop3 .text-wrapper-6 {
+  position: absolute;
+  width: 109px;
+  top: -1px;
+  left: 0;
+  font-family: 'Cormorant Garamond', serif;  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+/*Creative*/
+
+.desktop3 .creative {
+  position: absolute;
+  width: 109px;
+  height: 49px;
+  top: 58px;
+  right: 14%;
+
+}
+
+.desktop3 .text-wrapper-4 {
+  position: absolute;
+  width: 109px;
+  top: -1px;
+  left: 0;
+  font-family: 'Cormorant Garamond', serif;  font-weight: 700;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+
+
+/*About*/
+
+.desktop3 .about {
+  position: absolute;
+  width: 109px;
+  height: 49px;
+  top: 58px;
+  right: 5%;
+
+}
+
+.desktop3 .text-wrapper-5 {
+  position: absolute;
+  width: 109px;
+  top: -1px;
+  left: 0;
+  font-family: 'Cormorant Garamond', serif;  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+
+
+
+/*hover*/ 
+
+
+.hover-underline-animation {
+  display: inline-block;
+  position: relative;
+  color: #ffffff;
+}
+
+.hover-underline-animation:after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0; /* Adjust this value if needed */
+  left: 0;
+  background-color: #ffffff;
+  transform-origin: bottom right;
+  transition: transform 0.25s ease-out;
+}
+
+.hover-underline-animation:hover:after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}
+
+
+/*gallery linkedin*/
+
+.desktop4 {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop4 .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 100%;
+  height: 80px;
+  position: relative;
+}
+
+.desktop4 .overlap-group {
+  position: absolute;
+  width: 100%;
+  top: 633px;
+  left: -4px;
+}
+
+.desktop4 .footer {
+  position: absolute;
+  width: 100%;
+  top: 792px;
+  left: 0;
+  background-color: #f4f1e9;
+}
+
+.desktop4 .image {
+  width: 100%;
+  top: 802px;
+  left: 4px;
+  mix-blend-mode: screen;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop4 .frame {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: flex-start;
+  top: 0;
+  left: 4px;
+  gap: 10px;
+  position: absolute;
+}
+
+.desktop4 .footer-2 {
+  position: relative;
+  width: 100%;
+  background-color: #ffffff;
+}
+
+.desktop4 .div-wrapper {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  left: 30%;
+  gap: 10px;
+  position: absolute;
+}
+
+.desktop4 .text-wrapper {
+  position: relative;
+  width: 40%;
+  margin-top: -20px;
+  right: 23%;
+
+  font-family: 'Cormorant Garamond', serif;  font-weight: 500;
+  color: #1e1e1e;
+  font-size: 250%;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+
+
+}
+
+.desktop4 .overlap {
+  position: absolute;
+  width: 110%;
+  height: 76px;
+  top: 10%;
+  left: -43px;
+  background-color: #5a6057;
+}
+
+.desktop4 .linked-in {
+  position: relative;
+  width: 10%;
+  height: 35px;
+  top: 3px;
+  left: 65px;
+}
+
+
+.desktop4 .text-wrapper-2 {
+  position: absolute;
+  width: 20%;
+  top: 20px;
+  left: 0;
+  font-family: 'Cormorant Garamond', serif;  font-weight: 300;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
