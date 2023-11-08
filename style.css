@@ -94,7 +94,7 @@
 .desktop .img {
   width: 20%;
   height: auto;
-  top: 197px;
+  bottom: 55%;
   right: 10%;
   position: absolute;
   object-fit: cover;
@@ -104,7 +104,7 @@
 .desktop .image-2 {
   width: 20%;
   height: auto;
-  top: 95px;
+  top: 5%;
   left: 10%;
   position: absolute;
   object-fit: cover;
@@ -607,7 +607,7 @@
   left: 0;
   font-family: 'Cormorant Garamond', serif;  font-weight: 700;
   color: #ffffff;
-  font-size: 30px;
+  font-size: 185%;
   letter-spacing: 0;
   line-height: normal;
 }
