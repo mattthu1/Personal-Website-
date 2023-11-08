@@ -173,78 +173,6 @@
   line-height: normal;
 }
 
-/*Home*/
-
-.desktop .home-hover {
-  position: absolute;
-  width: 80px;
-  height: 49px;
-  top: 58px;
-  right: 23%;
-
-}
-
-.desktop .text-wrapper-6 {
-  position: absolute;
-  width: 109px;
-  top: -1px;
-  left: 0;
-  font-family: 'Cormorant Garamond', serif;  font-weight: 700;
-  color: #ffffff;
-  font-size: 30px;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-/*Creative*/
-
-.desktop .creative {
-  position: absolute;
-  width: 109px;
-  height: 49px;
-  top: 58px;
-  right: 14%;
-
-}
-
-.desktop .text-wrapper-4 {
-  position: absolute;
-  width: 109px;
-  top: -1px;
-  left: 0;
-  font-family: 'Cormorant Garamond', serif;  font-weight: 400;
-  color: #ffffff;
-  font-size: 30px;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-/*About*/
-
-.desktop .about {
-  position: absolute;
-  width: 109px;
-  height: 49px;
-  top: 58px;
-  right: 5%;
-  
-
-}
-
-.desktop .text-wrapper-5 {
-  position: absolute;
-  width: 109px;
-  top: -1px;
-  left: 0;
-  font-family: 'Cormorant Garamond', serif;  font-weight: 400;
-  color: #ffffff;
-  font-size: 30px;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-
-
 
 /* ABOUT */
 
@@ -365,7 +293,7 @@
   position: absolute;
   width: 888px;
   height: 181px;
-  top: 2872px;
+  top: 2850px;
   right: 0%;
 }
 
@@ -395,7 +323,7 @@
   line-height: normal;
 }
 
-.desktop2 .NYU-2 {
+.desktop2 .GeorgiaTech{
   top: 3331px;
   right: 0%;
   position: absolute;
@@ -403,7 +331,15 @@
   height: 168px;
 }
 
-.desktop2 .NYU-3 {
+.desktop2 .Google{
+  top: 3552px;
+  right: 0%;
+  position: absolute;
+  width: 888px;
+  height: 168px;
+}
+
+.desktop2 .Umich {
   top: 3773px;
   right: 0%;
   position: absolute;
@@ -411,13 +347,7 @@
   height: 168px;
 }
 
-.desktop2 .NYU-4 {
-  top: 3552px;
-  right: 0%;
-  position: absolute;
-  width: 888px;
-  height: 168px;
-}
+
 
 .desktop2 .frame {
   display: flex;
@@ -543,76 +473,6 @@
   line-height: normal;
 }
 
-/*Home*/
-
-.desktop2 .home-hover {
-  position: absolute;
-  width: 80px;
-  height: 49px;
-  top: 58px;
-  right: 23%;
-
-}
-
-.desktop2 .text-wrapper-13 {
-  position: absolute;
-  width: 109px;
-  top: -1px;
-  left: 0;
-  font-family: 'Cormorant Garamond', serif;  font-weight: 400;
-  color: #ffffff;
-  font-size: 30px;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-
-/*creative*/ 
-
-.desktop2 .creative {
-  position: absolute;
-  width: 109px;
-  height: 49px;
-  top: 58px;
-  right: 14%;
-}
-
-.desktop2 .text-wrapper-11 {
-    position: absolute;
-    width: 109px;
-    top: -1px;
-    left: 0;
-    font-family: 'Cormorant Garamond', serif;  font-weight: 400;
-    color: #ffffff;
-    font-size: 30px;
-    letter-spacing: 0;
-    line-height: normal;
-}
-
-/*About*/ 
-
-.desktop2 .about {
-  position: absolute;
-  width: 109px;
-  height: 49px;
-  top: 58px;
-  right: 5%;
-
-}
-
-.desktop2 .text-wrapper-12 {
-  position: absolute;
-  width: 109px;
-  top: -1px;
-  left: 0;
-  font-family: 'Cormorant Garamond', serif;  font-weight: 700;
-  color: #ffffff;
-  font-size: 185%;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-
 
 
 /*text wrappers*/
@@ -654,7 +514,7 @@
 .desktop2 .english-chinese {
   position: absolute;
   width: 231px;
-  top: 129px;
+  top: 140px;
   left: 41px;
   font-family: 'Cormorant Garamond', serif;  font-weight: 500;
   font-weight: 400;
@@ -925,6 +785,7 @@ transition: .3s;
 .desktop3 .text-wrapper-4 {
   position: absolute;
   width: 109px;
+  top: 3234px;
   top: -1px;
   left: 0;
   font-family: 'Cormorant Garamond', serif;  font-weight: 700;
@@ -974,11 +835,11 @@ transition: .3s;
 .hover-underline-animation:after {
   content: '';
   position: absolute;
-  width: 100%;
+  width: 80%;
   transform: scaleX(0);
   height: 2px;
   bottom: 0; /* Adjust this value if needed */
-  left: 0;
+  left: 20px;
   background-color: #ffffff;
   transform-origin: bottom right;
   transition: transform 0.25s ease-out;
@@ -989,8 +850,6 @@ transition: .3s;
   transform-origin: bottom left;
 }
 
-
-/*hover*/ 
 
 
 .hover-underline-animation2 {
@@ -1016,7 +875,6 @@ transition: .3s;
   transform: scaleX(1);
   transform-origin: bottom left;
 }
-
 
 
 /*gallery linkedin*/
@@ -1090,7 +948,7 @@ transition: .3s;
 
 .desktop4 .text-wrapper {
   position: relative;
-  width: 40%;
+  width: 20%;
   margin-top: -20px;
   right: 23%;
 
@@ -1135,3 +993,119 @@ transition: .3s;
   white-space: nowrap;
 }
 
+
+/*dropdown*/ 
+
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #201b1b00;
+}
+
+.topnav a {
+  float: right;
+  display: block;
+  color: #ffffff;
+  text-align: center;
+  padding: 14px -80px;
+  text-decoration: none;
+  font-family: 'Cormorant Garamond', serif;  font-weight: 400;
+  font-size: 30px;
+  width: 150px;
+  height: 49px;
+  top: 60px;
+  right: 5%;
+  
+}
+
+
+
+
+.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+.dropdown {
+  float: right;
+  
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 90px;    
+  border: none;
+  outline: none;
+  color: rgba(142, 40, 40, 0);
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: rgba(20, 19, 19, 0);
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: right;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: right;
+}
+
+.topnav a:hover, .dropdown:hover .dropbtn {
+  color: rgb(255, 255, 255);
+  top: 20;
+}
+
+.dropdown-content a:hover {
+  background-color: #844444;
+  color: black;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child), .dropdown .dropbtn {
+    display: none;
+  }
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 10px;
+    top: 20px;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: right;
+  }
+  .topnav.responsive .dropdown {float: none;}
+  .topnav.responsive .dropdown-content {position: relative;}
+  .topnav.responsive .dropdown .dropbtn {
+    display: block;
+    width: 100%;
+    text-align: right;
+  }
+}
