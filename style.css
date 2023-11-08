@@ -1045,3 +1045,34 @@ transition: .3s;
     text-align: right;
   }
 }
+
+
+
+/* smooth scroll*/ 
+/* CSS for the initially hidden button */
+.fixed-button {
+  position: fixed;
+  bottom: 5px;
+  right: 20px;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 20px;
+  border: none;
+  z-index: 1000;
+  display: none; /* Initially hide the button */
+  transition: opacity 3s;
+  background: transparent;
+      
+
+  
+}
+
+
+.fixed-button img {
+  width: 50px; /* Set the desired width for the image */
+  height: 50px; /* Set the desired height for the image */
+  background-size: cover;
+
+  background-color: rgba(0, 185, 169, 0)
+  
+}
