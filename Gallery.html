@@ -1,24 +1,46 @@
 <!DOCTYPE html>
+
 <html>
   <head>
     <link rel="stylesheet" href="globals.css" />
     <link rel="stylesheet" href="style.css" />
-  </head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+ 
+
+</head>
+        
 
     <body>
     
-        <div class="desktop3">
-            <div class="div">
-            
-            
-                <div class="overlap-2">
-                    <a href="index.html" class="matthew-hu"><div class="text-wrapper-3">Matthew Hu</div></a>
-                    <a href="Gallery.html" class="creative hover-underline-animation"><div class="text-wrapper-4">Creative</div></a>
-                    <a href="About.html" class="about hover-underline-animation"><div class="text-wrapper-5">About</div></a>                      
-                    <a href="index.html" class="home-hover hover-underline-animation"><div class="text-wrapper-6">Home</div></a>
-                  </div>
+       
+    <div class="desktop3">
+        
+        <div class="overlap-2">
+            <a href="index.html" class="matthew-hu"><div class="text-wrapper-3">Matthew Hu</div></a>
+
+            <div class="topnav" id="myTopnav">
+
+            <a href="About.html" class=" hover-underline-animation">About</a>
+            <a href="Gallery.html"  style ="font-weight: 700;" class=" hover-underline-animation">Creative</a>
+            <a href="index.html"  class=" hover-underline-animation">Home</a>
+            <div class="dropdown">
+                <button class="dropbtn">.</button></div> 
+            <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
             </div>
-        </div>
+            
+            
+            <script>
+            function myFunction() {
+            var x = document.getElementById("myTopnav");
+            if (x.className === "topnav") {
+                x.className += " responsive";
+            } else {
+                x.className = "topnav";
+            }
+            }
+            </script>
+
 
      
             <!--1-->
@@ -330,11 +352,7 @@
                     <img class = "test"src="Photos/Vsco/IMG_3450.JPG" alt="Portrait by Jeffery Erhunse" class="gallery__image">
                 </figure>
            </a>
-        </a>
-        <figure class="gallery__thumb">
-            <img class = "test"src="Photos/Vsco/IMG_3450.JPG" alt="Portrait by Jeffery Erhunse" class="gallery__image">
-        </figure>
-   </a>
+          
          
        </a>
     
